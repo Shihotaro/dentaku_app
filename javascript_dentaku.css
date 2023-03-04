@@ -1,0 +1,30 @@
+span{
+    background-color: black;
+    color: white;
+    
+}
+
+.dentaku{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+}
+
+#result{
+    text-align: end;
+}
+
+.buttonSpace{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button{
+    margin: 1px;
+    width: 24%;
+}
+
+#ac,#equal{
+    width: 49%;
+}
